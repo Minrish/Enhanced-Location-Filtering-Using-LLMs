@@ -1,4 +1,4 @@
-# Enhanced Location Filtering for CAIDA's IPMap Tool Using LLMs
+# Enhanced Location Filtering Using LLMs
 
 ## Purpose
 
